@@ -42,7 +42,6 @@ Python-Internship/
 
 ## Author
 
-**Tejashwini Vastrad.
-GECT**
+**Tejashwini Vastrad**
 
-BLDEACET – Computer Science Engineering
+GECT – Computer Science Engineering
